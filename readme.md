@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/Hevitriniavo/prog-5-d5/refs/heads/main/Readme.mdg
+https://raw.githubusercontent.com/Hevitriniavo/prog-5-d5/refs/heads/main/Readme.md
